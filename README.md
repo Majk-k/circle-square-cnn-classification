@@ -56,6 +56,12 @@ Both models are evaluated on the same test set.
 
 ## 4. Installation
 
+Clone the repository:
+```bash
+git clone https://github.com/Majk-k/circle-square-cnn-classification
+cd circle-square-cnn-classification
+```
+
 ```bash
 pip install -r requirements.txt
 ```
